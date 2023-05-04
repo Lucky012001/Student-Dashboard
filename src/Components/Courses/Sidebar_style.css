@@ -1,0 +1,11 @@
+.list-group a:hover {
+  background-color: #1a237e;
+  color: white;
+  cursor: pointer;
+}
+.container-fluid {
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+}
+.side-menu li:hover {
+  color: white;
+}
